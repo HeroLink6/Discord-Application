@@ -1,5 +1,5 @@
 {
-  "name": "discord-application",
+  "name": "Discord bot",
   "version": "1.0.0",
   "description": "Discord instance",
   "type": "module",
