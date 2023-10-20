@@ -1,7 +1,7 @@
 {
-  "name": "secret-app",
+  "name": "discord-app",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Discord instance",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
